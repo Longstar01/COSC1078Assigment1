@@ -1,13 +1,15 @@
 # COSC1078Assigment1
-Final Submission for Assignment 1
-
-<!DOCTYPE html>
+# COSC1078Assigment1
 <html>
-<title>HTML Tutorial</title>
+
 <body>
 
-<h1>Good Day</h1>
-<p>Alfa, Beta, Charlie, & Delta</p>
+<h1>Beta Site</h1>
 
-</body>
-</html>
+<p>This is my first site see how it goess you know</p>
+
+
+<p>FILLER INFO FILLER INFO</p>
+
+</body
+</html>>
