@@ -3,31 +3,6 @@
 <html>
 
 <body>
-
-<h1>Beta Site</h1>
-
-<p>This is my first site see how it goess you know</p>
-
-
-<p>FILLER INFO FILLER INFO</p>
-
-</body
-</html>>
-<!doctype html>
-
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>My Student Website</title>
-  <meta name="description" content="My Student Website">
-  <meta name="author" content="E07593">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-</head>
-
-<body>
 <!-- Wrap -->
 	<div id="wrapper">
 		<!-- Head -->
@@ -93,14 +68,3 @@
 			I'm very much interested in the security field and business management, so I'd hope to move into one of those areas and continue learning of the many different facets of IT.
 			While interested in transitioning into one of those fields, I would hope to have time available to allow for me to stay within the education sector.</p>
 			</section>
-
-		</div>
-
-	<!-- Footer -->
-		<footer>
-		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
-		  <a href="../index.html">Back Home?</a>
-		</footer>  
-	</div>
-</body>
-</html>
