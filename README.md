@@ -1,5 +1,4 @@
 # COSC1078Assigment1
-# COSC1078Assigment1
 <html>
 
 <body>
